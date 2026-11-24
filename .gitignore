@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build and distribution outputs
+dist/
+build/
+*.local
+
+# Audio workstation temporary cache
+*.sfk
+*.pk
+*.reapeaks
+*.asd
+
+# OS generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Environment and IDE
+.env
+.env.*.local
+.vscode/
+.idea/
+*.swp
+*.swo
